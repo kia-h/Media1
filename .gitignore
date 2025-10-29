@@ -1,0 +1,27 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio / Rider / VS Code
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# NuGet
+*.nupkg
+packages/
+
+# Rider
+.idea/
+
+# Dotnet publish artifacts
+publish/
+
+# Logs
+*.log
+
+# Certificate/private keys
+*.pfx
